@@ -24,5 +24,5 @@ This project performs **Descriptive Analytics** on AeroFit's customer database t
 ---
 
 ## 🚀 How to Explore the Analysis
-1. Open the file `Business_case_Study_Aerofit.ipynb` directly in GitHub to view the executable code cells, statistical summaries, and visual distribution plots.
+1. 1. Open the [Business_case_Study_Aerofit.ipynb](./Business_case_Study_Aerofit.ipynb) notebook directly in GitHub to view the executable code cells, statistical summaries, and visual distribution plots.
 2. The analysis covers Data cleaning, Data visualization (Histograms, Boxplots, Heatmaps), and Probability metrics.
